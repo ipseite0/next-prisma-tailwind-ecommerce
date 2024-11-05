@@ -10,3 +10,5 @@ module.exports = {
       ],
    },
 }
+
+//next.config.js
